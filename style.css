@@ -1,0 +1,22 @@
+.address{
+    font-weight: bold;
+}
+.purple{
+    background-color:#A9176F;
+}
+.searchbar{
+    width: 950px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.navbar{
+    background-color: #036544;
+    color: white;
+}
+.id{
+    margin-top: 25px;
+}
+.drop{
+    margin-right: 25px;
+
+}
